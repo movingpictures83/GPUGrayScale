@@ -1,0 +1,2 @@
+Prefix plugins/GPUGrayScale/example/
+Plugin GPUGrayScale inputfile input.ppm outputfile grayscale.ppm
